@@ -1,0 +1,5 @@
+D:\Programing C#\OperatorsExpressionsAndStatements\5.Third Digit\bin\Debug\5.Third Digit.exe.config
+D:\Programing C#\OperatorsExpressionsAndStatements\5.Third Digit\bin\Debug\5.Third Digit.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\5.Third Digit\bin\Debug\5.Third Digit.pdb
+D:\Programing C#\OperatorsExpressionsAndStatements\5.Third Digit\obj\Debug\5.Third Digit.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\5.Third Digit\obj\Debug\5.Third Digit.pdb

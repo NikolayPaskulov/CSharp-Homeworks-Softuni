@@ -1,0 +1,3 @@
+D:\Programing C#\IntroToProgramming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Programing C#\IntroToProgramming\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Programing C#\IntroToProgramming\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+D:\Programing C#\OperatorsExpressionsAndStatements\8.PrimeNumber\bin\Debug\8.PrimeNumber.exe.config
+D:\Programing C#\OperatorsExpressionsAndStatements\8.PrimeNumber\bin\Debug\8.PrimeNumber.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\8.PrimeNumber\bin\Debug\8.PrimeNumber.pdb
+D:\Programing C#\OperatorsExpressionsAndStatements\8.PrimeNumber\obj\Debug\8.PrimeNumber.csprojResolveAssemblyReference.cache
+D:\Programing C#\OperatorsExpressionsAndStatements\8.PrimeNumber\obj\Debug\8.PrimeNumber.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\8.PrimeNumber\obj\Debug\8.PrimeNumber.pdb

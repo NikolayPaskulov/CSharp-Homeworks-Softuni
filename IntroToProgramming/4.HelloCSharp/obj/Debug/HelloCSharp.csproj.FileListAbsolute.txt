@@ -1,0 +1,2 @@
+D:\Programing C#\IntroToProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Programing C#\IntroToProgramming\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache

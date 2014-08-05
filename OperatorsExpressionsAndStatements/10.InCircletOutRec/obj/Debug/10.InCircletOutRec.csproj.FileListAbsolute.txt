@@ -1,0 +1,6 @@
+D:\Programing C#\OperatorsExpressionsAndStatements\10.InCircletOutRec\bin\Debug\10.InCircletOutRec.exe.config
+D:\Programing C#\OperatorsExpressionsAndStatements\10.InCircletOutRec\bin\Debug\10.InCircletOutRec.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\10.InCircletOutRec\bin\Debug\10.InCircletOutRec.pdb
+D:\Programing C#\OperatorsExpressionsAndStatements\10.InCircletOutRec\obj\Debug\10.InCircletOutRec.csprojResolveAssemblyReference.cache
+D:\Programing C#\OperatorsExpressionsAndStatements\10.InCircletOutRec\obj\Debug\10.InCircletOutRec.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\10.InCircletOutRec\obj\Debug\10.InCircletOutRec.pdb

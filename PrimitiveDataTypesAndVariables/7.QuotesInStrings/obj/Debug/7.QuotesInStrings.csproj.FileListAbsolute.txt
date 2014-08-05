@@ -1,0 +1,5 @@
+D:\Programing C#\PrimitiveDataTypesAndVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe.config
+D:\Programing C#\PrimitiveDataTypesAndVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe
+D:\Programing C#\PrimitiveDataTypesAndVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.pdb
+D:\Programing C#\PrimitiveDataTypesAndVariables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.exe
+D:\Programing C#\PrimitiveDataTypesAndVariables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.pdb

@@ -1,0 +1,11 @@
+D:\Programing C#\IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Programing C#\IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Programing C#\IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Programing C#\IntroToProgramming\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Programing C#\IntroToProgramming\SquareRoot\obj\Debug\SquareRoot.pdb
+D:\Programing C#\IntroToProgramming\8.SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Programing C#\IntroToProgramming\8.SquareRoot\bin\Debug\SquareRoot.exe
+D:\Programing C#\IntroToProgramming\8.SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Programing C#\IntroToProgramming\8.SquareRoot\obj\Debug\8.SquareRoot.csprojResolveAssemblyReference.cache
+D:\Programing C#\IntroToProgramming\8.SquareRoot\obj\Debug\SquareRoot.exe
+D:\Programing C#\IntroToProgramming\8.SquareRoot\obj\Debug\SquareRoot.pdb

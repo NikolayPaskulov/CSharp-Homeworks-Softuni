@@ -1,0 +1,5 @@
+D:\Programing C#\IntroToProgramming\10.EditCSharpCode\bin\Debug\10.EditCSharpCode.exe.config
+D:\Programing C#\IntroToProgramming\10.EditCSharpCode\bin\Debug\10.EditCSharpCode.exe
+D:\Programing C#\IntroToProgramming\10.EditCSharpCode\bin\Debug\10.EditCSharpCode.pdb
+D:\Programing C#\IntroToProgramming\10.EditCSharpCode\obj\Debug\10.EditCSharpCode.exe
+D:\Programing C#\IntroToProgramming\10.EditCSharpCode\obj\Debug\10.EditCSharpCode.pdb

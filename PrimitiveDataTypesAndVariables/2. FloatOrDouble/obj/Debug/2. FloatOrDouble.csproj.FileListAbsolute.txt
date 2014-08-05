@@ -1,0 +1,5 @@
+D:\Programing C#\PrimitiveDataTypesAndVariables\2. FloatOrDouble\bin\Debug\_2.FloatOrDouble.exe.config
+D:\Programing C#\PrimitiveDataTypesAndVariables\2. FloatOrDouble\bin\Debug\_2.FloatOrDouble.exe
+D:\Programing C#\PrimitiveDataTypesAndVariables\2. FloatOrDouble\bin\Debug\_2.FloatOrDouble.pdb
+D:\Programing C#\PrimitiveDataTypesAndVariables\2. FloatOrDouble\obj\Debug\_2.FloatOrDouble.exe
+D:\Programing C#\PrimitiveDataTypesAndVariables\2. FloatOrDouble\obj\Debug\_2.FloatOrDouble.pdb

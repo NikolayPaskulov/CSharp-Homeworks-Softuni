@@ -1,0 +1,10 @@
+D:\Programing C#\IntroToProgramming\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+D:\Programing C#\IntroToProgramming\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+D:\Programing C#\IntroToProgramming\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+D:\Programing C#\IntroToProgramming\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+D:\Programing C#\IntroToProgramming\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
+D:\Programing C#\IntroToProgramming\7.PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+D:\Programing C#\IntroToProgramming\7.PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+D:\Programing C#\IntroToProgramming\7.PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+D:\Programing C#\IntroToProgramming\7.PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+D:\Programing C#\IntroToProgramming\7.PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb

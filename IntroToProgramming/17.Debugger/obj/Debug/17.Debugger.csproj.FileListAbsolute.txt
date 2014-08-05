@@ -1,0 +1,5 @@
+D:\Programing C#\IntroToProgramming\17.Debugger\bin\Debug\17.Debugger.exe.config
+D:\Programing C#\IntroToProgramming\17.Debugger\bin\Debug\17.Debugger.exe
+D:\Programing C#\IntroToProgramming\17.Debugger\bin\Debug\17.Debugger.pdb
+D:\Programing C#\IntroToProgramming\17.Debugger\obj\Debug\17.Debugger.exe
+D:\Programing C#\IntroToProgramming\17.Debugger\obj\Debug\17.Debugger.pdb

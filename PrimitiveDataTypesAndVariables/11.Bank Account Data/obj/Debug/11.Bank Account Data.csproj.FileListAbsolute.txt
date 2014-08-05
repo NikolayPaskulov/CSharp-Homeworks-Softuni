@@ -1,0 +1,5 @@
+D:\Programing C#\PrimitiveDataTypesAndVariables\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe.config
+D:\Programing C#\PrimitiveDataTypesAndVariables\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe
+D:\Programing C#\PrimitiveDataTypesAndVariables\11.Bank Account Data\bin\Debug\11.Bank Account Data.pdb
+D:\Programing C#\PrimitiveDataTypesAndVariables\11.Bank Account Data\obj\Debug\11.Bank Account Data.exe
+D:\Programing C#\PrimitiveDataTypesAndVariables\11.Bank Account Data\obj\Debug\11.Bank Account Data.pdb

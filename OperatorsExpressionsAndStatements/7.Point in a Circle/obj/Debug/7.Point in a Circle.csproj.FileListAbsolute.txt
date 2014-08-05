@@ -1,0 +1,5 @@
+D:\Programing C#\OperatorsExpressionsAndStatements\7.Point in a Circle\bin\Debug\7.Point in a Circle.exe.config
+D:\Programing C#\OperatorsExpressionsAndStatements\7.Point in a Circle\bin\Debug\7.Point in a Circle.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\7.Point in a Circle\bin\Debug\7.Point in a Circle.pdb
+D:\Programing C#\OperatorsExpressionsAndStatements\7.Point in a Circle\obj\Debug\7.Point in a Circle.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\7.Point in a Circle\obj\Debug\7.Point in a Circle.pdb

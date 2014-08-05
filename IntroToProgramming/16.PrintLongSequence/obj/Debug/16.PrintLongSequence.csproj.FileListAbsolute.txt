@@ -1,0 +1,10 @@
+D:\Programing C#\IntroToProgramming\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Programing C#\IntroToProgramming\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\Programing C#\IntroToProgramming\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\Programing C#\IntroToProgramming\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Programing C#\IntroToProgramming\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\Programing C#\IntroToProgramming\16.PrintLongSequence\bin\Debug\ConsoleApplication3.exe.config
+D:\Programing C#\IntroToProgramming\16.PrintLongSequence\bin\Debug\ConsoleApplication3.exe
+D:\Programing C#\IntroToProgramming\16.PrintLongSequence\bin\Debug\ConsoleApplication3.pdb
+D:\Programing C#\IntroToProgramming\16.PrintLongSequence\obj\Debug\ConsoleApplication3.exe
+D:\Programing C#\IntroToProgramming\16.PrintLongSequence\obj\Debug\ConsoleApplication3.pdb

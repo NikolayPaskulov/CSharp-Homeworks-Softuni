@@ -1,0 +1,5 @@
+D:\Programing C#\OperatorsExpressionsAndStatements\4.Rectangles\bin\Debug\4.Rectangles.exe.config
+D:\Programing C#\OperatorsExpressionsAndStatements\4.Rectangles\bin\Debug\4.Rectangles.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\4.Rectangles\bin\Debug\4.Rectangles.pdb
+D:\Programing C#\OperatorsExpressionsAndStatements\4.Rectangles\obj\Debug\4.Rectangles.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\4.Rectangles\obj\Debug\4.Rectangles.pdb

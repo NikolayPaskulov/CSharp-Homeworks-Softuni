@@ -1,0 +1,5 @@
+D:\Programing C#\OperatorsExpressionsAndStatements\2.Gravitation\bin\Debug\2.Gravitation.exe.config
+D:\Programing C#\OperatorsExpressionsAndStatements\2.Gravitation\bin\Debug\2.Gravitation.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\2.Gravitation\bin\Debug\2.Gravitation.pdb
+D:\Programing C#\OperatorsExpressionsAndStatements\2.Gravitation\obj\Debug\2.Gravitation.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\2.Gravitation\obj\Debug\2.Gravitation.pdb

@@ -1,0 +1,5 @@
+D:\Programing C#\PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.exe.config
+D:\Programing C#\PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.exe
+D:\Programing C#\PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.pdb
+D:\Programing C#\PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\obj\Debug\9.ExchangeVariableValues.exe
+D:\Programing C#\PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\obj\Debug\9.ExchangeVariableValues.pdb

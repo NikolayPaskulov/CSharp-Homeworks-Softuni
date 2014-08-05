@@ -1,0 +1,5 @@
+D:\Programing C#\OperatorsExpressionsAndStatements\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.exe.config
+D:\Programing C#\OperatorsExpressionsAndStatements\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.pdb
+D:\Programing C#\OperatorsExpressionsAndStatements\6.Four-DigitNumber\obj\Debug\6.Four-DigitNumber.exe
+D:\Programing C#\OperatorsExpressionsAndStatements\6.Four-DigitNumber\obj\Debug\6.Four-DigitNumber.pdb
